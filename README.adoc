@@ -3,18 +3,18 @@ CC BY-NC-SA 4.0]]
 
 image:images/banner.png[image]
 
-== DevOps, Software Evolution and Software Maintenance
+== DevOps, Software Evolution and Software Maintenance (MSc)
 
 
 === Content
 
 
-This page contains information on the schedule, material, exam, etc. for the elective "DevOps, Software Evolution and Software Maintenance Content" at IT University of Copenhagen, spring 2025 (link:https://learnit.itu.dk/local/coursebase/view.php?ciid=1618[BSc course description on LearnIT] and link:https://learnit.itu.dk/local/coursebase/view.php?ciid=1620[MSc course description on LearnIT]).
+This page contains information on the schedule, material, exam, etc. for the MSc elective "DevOps, Software Evolution and Software Maintenance Content" at IT University of Copenhagen, spring 2026 (link:https://learnit.itu.dk/local/coursebase/view.php?ciid=1894[Course description on LearnIT]).
 
 
 === Schedule
 
-Lectures are on Fridays from 10:00 to 12:00 in Auditorium 2 (0A35) and exercises are on Fridays from 12:00 to 14:00 in rooms 5A14-16.
+Lectures are on Fridays from 12:00 to 14:00 in Auditorium 2 (0A35) and exercises are on Fridays from 14:00 to 16:00 in rooms 3A12-14.
 
 *OBS*: We expect you to be present during the entire time, not only the lecture hours.
 
@@ -24,144 +24,144 @@ Lectures are on Fridays from 10:00 to 12:00 in Auditorium 2 (0A35) and exercises
 |# |Date |Time |Lecturer |Preparation |Topic |Exercises |Project Work
 // w5
 |1
-|31/1
-|10:00 - 14:00
+|30/1
+|12:00 - 16:00
 |Helge
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_01/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_01/Slides.md[Project start, forming groups, SSH, SCP, and Bash]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_01/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_01/Slides.md[Project start, forming groups, SSH, SCP, and Bash]
 |
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_01/README_TASKS.md[Refactor _ITU-MiniTwit_ to work on modern system]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_01/README_TASKS.md[Refactor _ITU-MiniTwit_ to work on modern system]
 // w6
 |2
-|7/2
-|10:00 - 14:00
+|6/2
+|12:00 - 16:00
 |Helge
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_02/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_02/Slides.md[Packaging applications, Containerization with Docker]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_02/README_EXERCISE.md[Using Docker]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_02/README_TASKS.md[Refactor _ITU-MiniTwit_ in another programming language and tech. stack]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_02/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_02/Slides.md[Packaging applications, Containerization with Docker]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_02/README_EXERCISE.md[Using Docker]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_02/README_TASKS.md[Refactor _ITU-MiniTwit_ in another programming language and tech. stack]
 // w7
 |3
-|14/2
-|10:00 - 14:00
-|Mircea
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_03/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_03/Slides.md[Provision of local and remote virtual machines]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_03/README_EXERCISE.md[Using Vagrant, VirtualBox, and DigitalOcean]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_03/README_TASKS.md[Continue refactoring, deployment of your _ITU-MiniTwit_ to a remote server.]
+|13/2
+|12:00 - 16:00
+|Helge
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_03/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_03/Slides.md[Provision of local and remote virtual machines]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_03/README_EXERCISE.md[Using Vagrant, VirtualBox, and DigitalOcean]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_03/README_TASKS.md[Continue refactoring, deployment of your _ITU-MiniTwit_ to a remote server.]
 // w8
 |4
-|21/2
-|10:00 - 14:00
-|Mircea
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_04/README_PREP.md[Prep. material]
+|20/2
+|12:00 - 16:00
+|Helge
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_04/README_PREP.md[Prep. material]
 |*Guest Lecture: What is DevOps? (Eficode)*;
-link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_04/Slides.md[Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_04/README_EXERCISE.md[Using GitHub Actions CI] (*Simulator test*)
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_04/README_TASKS.md[Continue refactoring, Setup CI & CD for reproducible builds, tests, delivery, and deployment]
+link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_04/Slides.md[Continuous Integration (CI), Continuous Delivery (CD), and Continuous Deployment]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_04/README_EXERCISE.md[Using GitHub Actions CI] (*Simulator test*)
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_04/README_TASKS.md[Continue refactoring, Setup CI & CD for reproducible builds, tests, delivery, and deployment]
 // w9
 |5
-|28/2
-|10:00 - 14:00
+|27/2
+|12:00 - 16:00
 |Helge
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_05/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_05/Slides.md[What is DevOps and configuration management]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_05/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_05/Slides.md[What is DevOps and configuration management]
 |(*Simulator starts*)
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_05/README_TASKS.md[Cleaning and polishing of your _ITU-MiniTwit_, introduction of DB abstraction layer, and entering maintenance]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_05/README_TASKS.md[Cleaning and polishing of your _ITU-MiniTwit_, introduction of DB abstraction layer, and entering maintenance]
 // w10
 |6
-|7/3
-|10:00 - 14:00
+|6/3
+|12:00 - 16:00
 |Helge
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_06/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_06/Slides.md[Monitoring]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_06/README_EXERCISE.md[Using Prometheus and Grafana]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_06/README_TASKS.md[Add monitoring to your _ITU-MiniTwit_ and peer-review]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_06/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_06/Slides.md[Monitoring]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_06/README_EXERCISE.md[Using Prometheus and Grafana]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_06/README_TASKS.md[Add monitoring to your _ITU-MiniTwit_ and peer-review]
 // w11
 |7
-|14/3
-|10:00 - 14:00
+|13/3
+|12:00 - 16:00
 |Helge
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_07/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_07/Slides.md[Software Quality, Maintainability & Technical Debt]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_07/README_EXERCISE.md[Understand tests and SonarQube Quality Model.]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_07/README_TASKS.md[Enhancing CI/CD setup with test suite and static code analysis]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_07/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_07/Slides.md[Software Quality, Maintainability & Technical Debt]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_07/README_EXERCISE.md[Understand tests and SonarQube Quality Model.]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_07/README_TASKS.md[Enhancing CI/CD setup with test suite and static code analysis]
 // w12
 |8
-|21/3
-|10:00 - 14:00
+|20/3
+|12:00 - 16:00
 |Mircea
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_08/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_08/Slides.md[Logging, and Log Analysis]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_08/README_EXERCISE.md[A Basic EFK Stack]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_08/README_TASKS.md[Add logging to your _ITU-MiniTwit_ and UI Testing Each Others Systems]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_08/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_08/Slides.md[Logging, and Log Analysis]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_08/README_EXERCISE.md[A Basic EFK Stack]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_08/README_TASKS.md[Add logging to your _ITU-MiniTwit_ and UI Testing Each Others Systems]
 // w13
 |9
-|28/3
-|10:00 - 14:00
+|27/3
+|12:00 - 16:00
 |Mircea
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_09/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_09/Slides.md[Availability]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_09/README_EXERCISE.md[A Basic Swarm]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_09/README_TASKS.md[Isolate components into services/containers/VMs]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_09/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_09/Slides.md[Availability]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_09/README_EXERCISE.md[A Basic Swarm]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_09/README_TASKS.md[Isolate components into services/containers/VMs]
 // w14
-|10
-|4/4
-|10:00 - 14:00
-|Mircea
-|-
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_10/TLSTutorial.md[TLS Tutorial]
-|
-|Continue isolation of components into services/containers/VMs and Fix reported problems
-// w15
-|11
-|11/4
-|10:00 - 14:00
-|Mircea
-|
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_11/Slides.md[Security]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_11/README_EXERCISE.md[Pentesting]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_11/README_TASKS.md[Security Hardening]
-// w16
 |–
-|18/4
+|3/4
 |-
 |-
 |-
 |Easter Break
 |-
 | Operations & maintenance still reacting on issue reports and fixing of errors :)
-// w17
-|12
-|25/4
-|10:00 - 14:00
+// w15
+|10
+|10/4
+|12:00 - 16:00
+|Mircea
+|-
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_10/TLSTutorial.md[TLS Tutorial]
+|
+|Continue isolation of components into services/containers/VMs and Fix reported problems
+// w16
+|11
+|17/4
+|12:00 - 16:00
 |Mircea
 |
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_12/IaC.pdf[Infrastructure as Code]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_12/README_EXERCISE.md[MiniTwit Infrastructure as Code]
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_12/README_TASKS.md[Encode your infrastructure setup]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_11/Slides.md[Security]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_11/README_EXERCISE.md[Pentesting]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_11/README_TASKS.md[Security Hardening]
+// w17
+|12
+|24/4
+|12:00 - 16:00
+|Mircea
+|
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_12/IaC.pdf[Infrastructure as Code]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_12/README_EXERCISE.md[MiniTwit Infrastructure as Code]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_12/README_TASKS.md[Encode your infrastructure setup]
 // w18
 |13
-|2/5
-|10:00 - 14:00
+|1/5
+|12:00 - 16:00
 |Helge
 |
-|*Guest Lecture: DevOps@NetCompany by Tarik*, link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_13/Architectural_Documentation.pdf[Documentation of Systems and Projects]
+|*Guest Lecture: DevOps@NetCompany by Tarik*, link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_13/Architectural_Documentation.pdf[Documentation of Systems and Projects]
 |
 |*Simulator stops*. Write report.
 // w19
 |14
-|9/5
-|10:00 - 14:00
+|8/5
+|12:00 - 16:00
 |Helge
 |
-|link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_14/Slides.md[Exam prep., Thesis topics, Evaluation, Cookies :)]
+|link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_14/Slides.md[Exam prep., Thesis topics, Evaluation, Cookies :)]
 |
 |Write report.
 |=======================================================================
 
-* Exam submission: Latest Friday *30/5/2025 14:00*
-* Exam period: 25/6/2025 to 27/6/2025
+* Exam submission: Latest Friday *18/5/2026 14:00* via WISEflow
+* Exam period: 1/6/2026 to 4/6/2026
 
 
 === TA Supervision
@@ -203,7 +203,7 @@ There are many more such Ubuntu derivatives, choose one of your liking: link:htt
 Since all sessions contain hands-on exercises, we recommend that you have such a Linux version installed on a computer.
 (In case you decide to run another operating system, we cannot provide too much support for these during class.) The recommended setup is to have such a Linux installed natively on your machine.
 
-Find installation instructions link:https://github.com/itu-devops/lecture_notes/blob/master/sessions/session_00/README.adoc[session_00/README.adoc].
+Find installation instructions link:https://github.com/itu-devops/MSc_lecture_notes/blob/master/sessions/session_00/README.adoc[session_00/README.adoc].
 
 === Team
 
@@ -226,7 +226,6 @@ TBA
 == Exam Schedule
 
 TBA
-
 
 == Re-exam Schedule
 
