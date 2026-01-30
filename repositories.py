@@ -29,8 +29,8 @@ GROUP_REPOS = [
     ],
     [
         "group e",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "Jams",
+        ["https://github.com/sebsthiel/minitwit-devops"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
