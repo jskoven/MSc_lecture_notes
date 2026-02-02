@@ -85,8 +85,8 @@ GROUP_REPOS = [
     ],
     [
         "group m",
-        "<name>",
-        ["https://github.com/<organization|user>/<repository_name>"],
+        "Jackhammers",
+        ["https://github.com/RonoITU/itu-devops2026-jackhammers"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
