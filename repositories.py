@@ -36,8 +36,9 @@ GROUP_REPOS = [
     ],
     [
         "group f",
-        "if time > 16 {beer++}",
-        ["https://github.com/TienCamLy/MiniTwit"],
+        "Group 1",
+        ["https://github.com/Afab1311/MiniTwit-gruppe1"],
+
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
     ],
