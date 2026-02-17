@@ -88,8 +88,8 @@ GROUP_REPOS = [
         "group m",
         "Jackhammers",
         ["https://github.com/RonoITU/itu-devops2026-jackhammers"],
-        "http://46.62.205.139/",
-        "http://46.62.205.139/",
+        "https://windysquirrels.dk/",
+        "https://windysquirrels.dk/api/",
     ],
     [
         "group n",
