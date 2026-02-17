@@ -67,8 +67,8 @@ GROUP_REPOS = [
         "group j",
         "Chirp Vee2",
         ["https://github.com/PokingPines/Chirp-Vee2"],
-        "http://165.22.30.206:8080/",
-        "http(s)://<TBA>/<APIURL>",
+        "http://157.245.27.199:8080/",
+        "http://157.245.27.199:8080/",
     ],
     [
         "group k",
