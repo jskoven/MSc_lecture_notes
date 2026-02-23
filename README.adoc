@@ -91,10 +91,10 @@ link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/sessio
 |9
 |24/3
 |8:00 - 12:00
-|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_09/README_PREP.md[Prep. material]
-|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_09/Slides.md[Availability]
-|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_09/README_EXERCISE.md[A Basic Swarm]
-|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_09/README_TASKS.md[Isolate components into services/containers/VMs]
+|-
+|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_09/Slides.md[Security, Firewall, and TLS]
+|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_09/README_EXERCISE.md[Pentesting]
+|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_09/README_TASKS.md[Security Hardening]
 // w14
 |–
 |31/3
@@ -107,10 +107,10 @@ link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/sessio
 |10
 |7/4
 |8:00 - 12:00
-|-
-|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_10/Slides.md[Security, Firewall, and TLS]
-|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_10/README_EXERCISE.md[Pentesting]
-|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_10/README_TASKS.md[Security Hardening]
+|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_10/README_PREP.md[Prep. material]
+|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_10/Slides.md[Availability]
+|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_10/README_EXERCISE.md[A Basic Swarm]
+|link:https://github.com/itu-devops/BSc_lecture_notes/blob/master/sessions/session_10/README_TASKS.md[Isolate components into services/containers/VMs]
 // w16
 |11
 |14/4
@@ -155,14 +155,11 @@ TBA
 
 ==== Activity Dashboard
 
-////
+* link:http://209.38.211.172/status.html[Overview]
+* link:http://209.38.211.172/commit_activity_daily.svg[Daily commit activity per group]
+* link:http://209.38.211.172/commit_activity_weekly.svg[Weekly commit activity per group]
+* link:http://209.38.211.172/release_activity_weekly.svg[Weekly release activity per group]
 
-* link:http://138.68.66.124/status.html[Overview]
-* link:http://138.68.66.124/commit_activity_daily.svg[Daily commit activity per group]
-* link:http://138.68.66.124/commit_activity_weekly.svg[Weekly commit activity per group]
-* link:http://138.68.66.124/release_activity_weekly.svg[Weekly release activity per group]
-
-////
 
 ==== Simulator Status Dashboard
 
