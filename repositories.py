@@ -43,10 +43,10 @@ GROUP_REPOS = [
     ],
     [
         "group g",
-        "DevOpps",
+        "GruppeOG",
         ["https://git.marfavi.com/DevOpps/itu-minitwit-migration"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "http://142.93.169.145:7273/",
+        "http://142.93.169.145:7273/",
     ],
     [
         "group i",
