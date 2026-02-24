@@ -77,13 +77,6 @@ GROUP_REPOS = [
         "https://windysquirrels.dk/api",
     ],
     [
-        "group n",
-        "Diversity",
-        ["https://github.com/huncut47/diversity"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
-    ],
-    [
         "group o",
         "NO.1",
         ["https://github.com/YUMJiHyeon/DEVOPS"],
