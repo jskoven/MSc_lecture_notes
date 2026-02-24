@@ -85,7 +85,7 @@ GROUP_REPOS = [
     ],
     [
         "group o",
-        "Rollback & Relax",
+        "NO.1",
         ["https://github.com/YUMJiHyeon/DEVOPS"],
         "http(s)://<TBA>/<FrontEndURL>",
         "http(s)://<TBA>/<APIURL>",
