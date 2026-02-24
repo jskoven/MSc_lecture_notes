@@ -29,10 +29,10 @@ GROUP_REPOS = [
     ],
     [
         "group e",
-        "Jams",
-        ["https://github.com/sebsthiel/minitwit-devops"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "Disaster",
+        ["https://github.com/Itu-DevOps-2026/ITU-MiniTwit"],
+        "http://165.227.145.109:5000",
+        "http://165.227.145.109:5000/api",
     ],
     [
         "group f",
