@@ -1,10 +1,10 @@
 GROUP_REPOS = [
     [
         "group a",
-        "ZeroDownTime",
-        ["https://github.com/ZeroDownTime-ITU/minitwit_project"],
-        "http://167.172.185.218:5173",
-        "http://167.172.185.218:5173/api",
+        "Ducks",
+        ["https://github.com/Alexitu01/DevOps_Ducks"],
+        "http(s)://<TBA>/<FrontEndURL>",
+        "http(s)://<TBA>/<APIURL>",
     ],
     [
         "group b",
