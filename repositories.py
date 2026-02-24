@@ -73,8 +73,8 @@ GROUP_REPOS = [
         "group l",
         "Deploy and pray",
         ["https://github.com/ITU-DEVOPS2026-GROUP-l/ITU-MiniTwit"],
-        "http://161.35.211.34:5000/",
-        "http://161.35.211.34:5000/",
+        "http://161.35.211.34:5000",
+        "http://161.35.211.34:5000",
     ],
     [
         "group m",
