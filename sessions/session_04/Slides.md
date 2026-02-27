@@ -38,7 +38,7 @@ class: center, middle
 
 ### Share URLs to your deployed applications and APIs
 
-Send a pull request to `repositories.py` in our central repository: https://github.com/itu-devops/BSc_lecture_notes/blob/master/repositories.py
+Send a pull request to `repositories.py` in our central repository: https://github.com/itu-devops/MSc_lecture_notes/blob/master/repositories.py
 
 Add two URL links:
 

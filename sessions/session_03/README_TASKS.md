@@ -77,7 +77,7 @@ That means, creation of your virtual machines has to be automatically reproducib
     - **OBS**: The simulator API from the task 1 is part of your _ITU-MiniTwit_, i.e., it has to be deployed too.
   * Your application has to be reachable via a public IP/domain.
 
-  * Once, your application is deployed and running, send a pull request to `repositories.py` in our central repository: https://github.com/itu-devops/BSc_lecture_notes/blob/master/repositories.py
+  * Once, your application is deployed and running, send a pull request to `repositories.py` in our central repository: https://github.com/itu-devops/MSc_lecture_notes/blob/master/repositories.py
     - Add two URLs:
       * One to your running applications (edit `"http://<minitwit_application_url>"`)
       * Another one to the simulator API endpoint (edit `"http://<sim_api_url>"`)
