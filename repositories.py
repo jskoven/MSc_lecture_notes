@@ -3,8 +3,8 @@ GROUP_REPOS = [
         "group a",
         "ZeroDownTime",
         ["https://github.com/ZeroDownTime-ITU/minitwit_project"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "https://zerodt.live/",
+        "http://zerodt.live:7070/api",
     ],
     [
         "group b",
