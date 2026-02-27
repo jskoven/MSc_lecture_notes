@@ -24,8 +24,8 @@ GROUP_REPOS = [
         "group d",
         "Dense Dino Nuggets",
         ["https://github.com/Slug-Boi-ITU-Repositories/Dense-Dino-Nuggets"],
-        "http(s)://<TBA>/<FrontEndURL>",
-        "http(s)://<TBA>/<APIURL>",
+        "http://164.92.201.201:8080",
+        "http://164.92.201.201:8080",
     ],
     [
         "group e",
